@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 "\U00B4/breve/caron \U00B8/circumflex/dieresis.cap \U00A8/dotaccent.cap/dotaccent `/hungarumlaut.cap/hungarumlaut/macron.cap \U00AF/ogonek/ring.cap/ring/tilde.cap/tilde/acute.cap/breve.cap/circumflex.cap/caron.cap/grave.cap",
-"/acute.cap \U00C1/Cacute \U00C9\U00CD/Lacute/Nacute \U00D3R/Racute S/Sacute \U00DA/Wacute \U00DD/Zacute/breve.cap/caron.cap/circumflex.cap/dieresis.cap/dotaccent.cap/grave.cap/hungarumlaut.cap/Ohungarumlaut/Uhungarumlaut/macron.cap/ring.cap \U00C5/Uring/tilde.cap \U00C3\U00D1\U00D5",
+"/acute.cap \U00C1/Cacute \U00C9\U00CD/Lacute/Nacute \U00D3R/Racute S/Sacute \U00DA/Wacute \U00DD/Zacute/breve.cap/caron.cap/circumflex.cap/dieresis.cap/dotaccent.cap/grave.cap/hungarumlaut.cap/Ohungarumlaut/Uhungarumlaut/macron.cap/ring.cap \U00C5/Uring/tilde.cap \U00C3\U00D1\U00D5123",
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 /Hbar,
 "/commaaccentcomb L/Lcaron",
@@ -17819,7 +17819,7 @@ unicode = 0031;
 },
 {
 glyphname = two;
-lastChange = "2015-06-30 14:30:14 +0000";
+lastChange = "2015-10-12 15:05:06 +0000";
 layers = (
 {
 layerId = "284DCAF7-AB20-402F-AEDF-E1CEEB9773D4";
@@ -17830,28 +17830,28 @@ closed = 1;
 nodes = (
 "497 0 LINE",
 "507 74 LINE",
-"163 75 LINE",
+"169 75 LINE",
 "169 49 LINE",
-"315 237 LINE SMOOTH",
-"463 428 OFFCURVE",
-"496 481 OFFCURVE",
-"496 571 CURVE SMOOTH",
-"496 684 OFFCURVE",
-"411 754 OFFCURVE",
-"284 754 CURVE SMOOTH",
-"209 754 OFFCURVE",
-"140 725 OFFCURVE",
-"86 677 CURVE",
-"120 624 LINE",
-"175 662 OFFCURVE",
-"215 678 OFFCURVE",
-"266 678 CURVE SMOOTH",
-"344 678 OFFCURVE",
-"398 641 OFFCURVE",
-"398 565 CURVE SMOOTH",
-"398 481 OFFCURVE",
-"354 414 OFFCURVE",
-"242 272 CURVE SMOOTH",
+"301 227 LINE SMOOTH",
+"439 413 OFFCURVE",
+"482 482 OFFCURVE",
+"482 566 CURVE SMOOTH",
+"482 685 OFFCURVE",
+"397 754 OFFCURVE",
+"273 754 CURVE SMOOTH",
+"189 754 OFFCURVE",
+"123 724 OFFCURVE",
+"72 679 CURVE",
+"106 624 LINE",
+"161 662 OFFCURVE",
+"201 678 OFFCURVE",
+"253 678 CURVE SMOOTH",
+"330 678 OFFCURVE",
+"384 643 OFFCURVE",
+"384 561 CURVE SMOOTH",
+"384 481 OFFCURVE",
+"333 403 OFFCURVE",
+"228 264 CURVE SMOOTH",
 "58 39 LINE",
 "58 0 LINE"
 );
