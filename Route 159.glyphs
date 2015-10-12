@@ -10,7 +10,8 @@ DisplayStrings = (
 "/acute.cap \U00C1/Cacute \U00C9\U00CD/Lacute/Nacute \U00D3R/Racute S/Sacute \U00DA/Wacute \U00DD/Zacute/breve.cap/caron.cap/circumflex.cap/dieresis.cap/dotaccent.cap/grave.cap/hungarumlaut.cap/Ohungarumlaut/Uhungarumlaut/macron.cap/ring.cap \U00C5/Uring/tilde.cap",
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 /Hbar,
-"/commaaccentcomb L/Lcaron"
+"/commaaccentcomb L/Lcaron",
+K
 );
 classes = (
 {
@@ -3662,7 +3663,7 @@ unicode = 004A;
 },
 {
 glyphname = K;
-lastChange = "2015-10-12 14:36:46 +0000";
+lastChange = "2015-10-12 14:50:06 +0000";
 layers = (
 {
 anchors = (
@@ -3681,12 +3682,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"616 0 LINE",
-"293 378 LINE",
-"617 730 LINE",
-"514 740 LINE",
+"634 0 LINE",
+"299 378 LINE",
+"612 730 LINE",
+"509 740 LINE",
 "188 370 LINE",
-"498 0 LINE"
+"505 0 LINE"
 );
 },
 {
@@ -28564,7 +28565,7 @@ unicode = 2021;
 },
 {
 glyphname = commaaccentcomb;
-lastChange = "2015-10-12 14:44:59 +0000";
+lastChange = "2015-10-12 14:48:32 +0000";
 layers = (
 {
 anchors = (
