@@ -8796,7 +8796,7 @@ unicode = 00E5;
 },
 {
 glyphname = atilde;
-lastChange = "2016-02-13 23:29:56 +0000";
+lastChange = "2016-02-14 00:47:41 +0000";
 layers = (
 {
 components = (
@@ -8831,11 +8831,11 @@ name = a;
 },
 {
 name = tilde;
-transform = "{1, 0, 0, 1, 76, 0}";
+transform = "{1, 0, 0, 1, 73, 0}";
 }
 );
 layerId = "005AA5DB-9C20-42D5-964E-7DFE1013E61C";
-width = 562;
+width = 559;
 }
 );
 leftKerningGroup = a;
