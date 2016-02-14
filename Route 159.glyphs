@@ -8,7 +8,7 @@ garapagos,
 "\U00E1/cacute \U00E9\U00EDl/lacute/nacute \U00F3/racute/sacute \U00FA/wacute \U00FD/zacute",
 "/commaaccentcomb/commaaccentcomb/commaaccentcomb.alt \U00B4/breve/caron \U00B8/circumflex \U00A8/dotaccent `/hungarumlaut \U00AF/ogonek/ring/tilde/acute.cap/breve.cap/caron.cap/circumflex.cap/dieresis.cap/dotaccent.cap/grave.cap/hungarumlaut.cap/macron.cap/ring.cap/tilde.cap      HAMILTON",
 /tilde,
-"/tilde.cap \U00C3\U00D1\U00D5/tilde \U00E3\U00F1\U00F5"
+"\U00C5/Uring \U00E5/uring"
 );
 classes = (
 {
@@ -680,7 +680,7 @@ unicode = 0104;
 },
 {
 glyphname = Aring;
-lastChange = "2015-10-17 23:27:10 +0000";
+lastChange = "2016-02-13 23:56:55 +0000";
 layers = (
 {
 components = (
@@ -689,7 +689,7 @@ name = A;
 },
 {
 name = ring.cap;
-transform = "{1, 0, 0, 1, 217, 0}";
+transform = "{1, 0, 0, 1, 197, 0}";
 }
 );
 layerId = "D0F50BF8-B137-4291-8B58-E185C78D1B48";
@@ -702,7 +702,7 @@ name = A;
 },
 {
 name = ring.cap;
-transform = "{1, 0, 0, 1, 235, 0}";
+transform = "{1, 0, 0, 1, 215, 0}";
 }
 );
 layerId = "284DCAF7-AB20-402F-AEDF-E1CEEB9773D4";
@@ -715,7 +715,7 @@ name = A;
 },
 {
 name = ring.cap;
-transform = "{1, 0, 0, 1, 257, -10}";
+transform = "{1, 0, 0, 1, 237, -10}";
 }
 );
 layerId = "005AA5DB-9C20-42D5-964E-7DFE1013E61C";
@@ -7063,7 +7063,7 @@ unicode = 0172;
 },
 {
 glyphname = Uring;
-lastChange = "2016-02-12 22:57:58 +0000";
+lastChange = "2016-02-13 23:56:55 +0000";
 layers = (
 {
 components = (
@@ -7085,7 +7085,7 @@ name = U;
 },
 {
 name = ring.cap;
-transform = "{1, 0, 0, 1, 207, 0}";
+transform = "{1, 0, 0, 1, 187, 0}";
 }
 );
 layerId = "284DCAF7-AB20-402F-AEDF-E1CEEB9773D4";
@@ -7098,7 +7098,7 @@ name = U;
 },
 {
 name = ring.cap;
-transform = "{1, 0, 0, 1, 221, -10}";
+transform = "{1, 0, 0, 1, 201, -10}";
 }
 );
 layerId = "005AA5DB-9C20-42D5-964E-7DFE1013E61C";
@@ -8748,7 +8748,7 @@ unicode = 0105;
 },
 {
 glyphname = aring;
-lastChange = "2016-02-12 22:57:58 +0000";
+lastChange = "2016-02-13 23:56:55 +0000";
 layers = (
 {
 components = (
@@ -8770,7 +8770,7 @@ name = a;
 },
 {
 name = ring;
-transform = "{1, 0, 0, 1, 148, 0}";
+transform = "{1, 0, 0, 1, 128, 0}";
 }
 );
 layerId = "284DCAF7-AB20-402F-AEDF-E1CEEB9773D4";
@@ -8783,7 +8783,7 @@ name = a;
 },
 {
 name = ring;
-transform = "{1, 0, 0, 1, 163, 0}";
+transform = "{1, 0, 0, 1, 143, 0}";
 }
 );
 layerId = "005AA5DB-9C20-42D5-964E-7DFE1013E61C";
@@ -15878,7 +15878,7 @@ unicode = 0173;
 },
 {
 glyphname = uring;
-lastChange = "2016-02-12 22:58:20 +0000";
+lastChange = "2016-02-13 23:56:55 +0000";
 layers = (
 {
 components = (
@@ -15913,7 +15913,7 @@ name = u;
 },
 {
 name = ring;
-transform = "{1, 0, 0, 1, 178, 0}";
+transform = "{1, 0, 0, 1, 158, 0}";
 }
 );
 layerId = "005AA5DB-9C20-42D5-964E-7DFE1013E61C";

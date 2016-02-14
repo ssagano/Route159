@@ -27505,7 +27505,7 @@ unicode = 02D9;
 },
 {
 glyphname = grave;
-lastChange = "2016-02-12 22:31:33 +0000";
+lastChange = "2016-02-14 00:07:24 +0000";
 layers = (
 {
 anchors = (
@@ -27570,7 +27570,7 @@ nodes = (
 "231 604 LINE",
 "177 760 LINE",
 "146 760 LINE",
-"209 604 LINE"
+"211 604 LINE"
 );
 }
 );
@@ -27583,7 +27583,7 @@ unicode = 0060;
 },
 {
 glyphname = hungarumlaut;
-lastChange = "2016-02-12 22:31:14 +0000";
+lastChange = "2016-02-14 00:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -27619,7 +27619,7 @@ width = 415;
 anchors = (
 {
 name = _top;
-position = "{256, 520}";
+position = "{255, 520}";
 }
 );
 layerId = "005AA5DB-9C20-42D5-964E-7DFE1013E61C";
@@ -27628,7 +27628,7 @@ paths = (
 closed = 1;
 nodes = (
 "202 604 LINE",
-"397 780 LINE",
+"395 780 LINE",
 "223 780 LINE",
 "113 604 LINE"
 );
@@ -27637,13 +27637,13 @@ nodes = (
 closed = 1;
 nodes = (
 "412 604 LINE",
-"607 780 LINE",
+"605 780 LINE",
 "433 780 LINE",
 "323 604 LINE"
 );
 }
 );
-width = 536;
+width = 534;
 },
 {
 associatedMasterId = "D0F50BF8-B137-4291-8B58-E185C78D1B48";
@@ -27663,19 +27663,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"135 604 LINE",
-"266 760 LINE",
-"235 760 LINE",
-"113 604 LINE"
+"136 604 LINE",
+"267 760 LINE",
+"234 760 LINE",
+"112 604 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"234 604 LINE",
-"365 760 LINE",
-"334 760 LINE",
-"212 604 LINE"
+"235 604 LINE",
+"366 760 LINE",
+"333 760 LINE",
+"211 604 LINE"
 );
 }
 );
@@ -28720,7 +28720,7 @@ width = 260;
 },
 {
 glyphname = grave.cap;
-lastChange = "2016-02-12 22:31:38 +0000";
+lastChange = "2016-02-14 00:07:28 +0000";
 layers = (
 {
 anchors = (
@@ -28736,7 +28736,7 @@ closed = 1;
 nodes = (
 "213 935 LINE",
 "183 935 LINE",
-"249 799 LINE",
+"251 799 LINE",
 "272 799 LINE"
 );
 }
@@ -28789,7 +28789,7 @@ width = 345;
 },
 {
 glyphname = hungarumlaut.cap;
-lastChange = "2016-02-09 15:05:02 +0000";
+lastChange = "2016-02-14 00:08:12 +0000";
 layers = (
 {
 anchors = (
@@ -28803,19 +28803,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"178 799 LINE",
-"302 935 LINE",
-"272 935 LINE",
-"155 799 LINE"
+"179 799 LINE",
+"303 935 LINE",
+"271 935 LINE",
+"154 799 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"276 799 LINE",
-"400 935 LINE",
-"370 935 LINE",
-"253 799 LINE"
+"277 799 LINE",
+"401 935 LINE",
+"369 935 LINE",
+"252 799 LINE"
 );
 }
 );
@@ -28855,7 +28855,7 @@ width = 429;
 anchors = (
 {
 name = _top;
-position = "{318, 740}";
+position = "{317, 740}";
 }
 );
 layerId = "005AA5DB-9C20-42D5-964E-7DFE1013E61C";
@@ -28864,7 +28864,7 @@ paths = (
 closed = 1;
 nodes = (
 "249 799 LINE",
-"453 955 LINE",
+"451 955 LINE",
 "270 955 LINE",
 "155 799 LINE"
 );
@@ -28873,13 +28873,13 @@ nodes = (
 closed = 1;
 nodes = (
 "480 799 LINE",
-"684 955 LINE",
+"682 955 LINE",
 "501 955 LINE",
 "386 799 LINE"
 );
 }
 );
-width = 576;
+width = 574;
 }
 );
 },
