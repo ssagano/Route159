@@ -1,7 +1,7 @@
 {
 .appVersion = "843";
 DisplayStrings = (
-"/commaaccentcomb/commaaccentcomb/commaaccentcomb.alt \U00B4/breve/caron \U00B8/circumflex \U00A8/dotaccent `/hungarumlaut \U00AF/ogonek/ring/tilde/acute.cap/breve.cap/caron.cap/circumflex.cap/dieresis.cap/dotaccent.cap/grave.cap/hungarumlaut.cap/macron.cap/ring.cap/tilde.cap aA",
+humanist,
 "\U00B4a\U00E1/cacute e\U00E9/dotlessi \U00EDl/lacute/nacute \U00F3/racute s/sacute \U00FAw/wacute y\U00FD/zacute",
 "/tilde.cap \U00C3\U00D1\U00D5/tilde \U00E3\U00F1\U00F5",
 "/ring.cap \U00C5/Uring/ring \U00E5/uring"
@@ -15539,7 +15539,7 @@ unicode = 0163;
 },
 {
 glyphname = u;
-lastChange = "2015-10-31 11:26:45 +0000";
+lastChange = "2016-02-14 00:25:38 +0000";
 layers = (
 {
 anchors = (
@@ -15555,25 +15555,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"256 -14 OFFCURVE",
+"266 -14 OFFCURVE",
 "332 17 OFFCURVE",
 "405 87 CURVE",
-"390 133 LINE",
-"333 75 OFFCURVE",
-"272 56 OFFCURVE",
-"220 56 CURVE SMOOTH",
-"136 56 OFFCURVE",
-"119 102 OFFCURVE",
+"390 150 LINE",
+"331 79 OFFCURVE",
+"280 56 OFFCURVE",
+"228 56 CURVE SMOOTH",
+"169 56 OFFCURVE",
+"136 83 OFFCURVE",
+"136 152 CURVE SMOOTH",
+"136 173 OFFCURVE",
+"140 199 OFFCURVE",
 "146 229 CURVE SMOOTH",
 "210 525 LINE",
 "119 515 LINE",
-"59 230 LINE SMOOTH",
-"47 173 OFFCURVE",
-"43 147 OFFCURVE",
-"43 115 CURVE SMOOTH",
-"43 46 OFFCURVE",
-"83 -14 OFFCURVE",
-"178 -14 CURVE SMOOTH"
+"61 240 LINE SMOOTH",
+"49 183 OFFCURVE",
+"45 157 OFFCURVE",
+"45 125 CURVE SMOOTH",
+"45 43 OFFCURVE",
+"93 -14 OFFCURVE",
+"188 -14 CURVE SMOOTH"
 );
 },
 {
@@ -15592,7 +15595,7 @@ width = 565;
 anchors = (
 {
 name = top;
-position = "{364, 520}";
+position = "{365, 520}";
 }
 );
 layerId = "005AA5DB-9C20-42D5-964E-7DFE1013E61C";
@@ -15602,38 +15605,41 @@ paths = (
 {
 closed = 1;
 nodes = (
-"267 -14 OFFCURVE",
-"359 39 OFFCURVE",
-"457 159 CURVE",
-"425 237 LINE",
-"376 160 OFFCURVE",
-"339 122 OFFCURVE",
-"290 122 CURVE SMOOTH",
-"224 122 OFFCURVE",
-"197 153 OFFCURVE",
-"214 230 CURVE SMOOTH",
-"280 527 LINE",
-"98 521 LINE",
-"38 240 LINE SMOOTH",
-"28 191 OFFCURVE",
-"23 164 OFFCURVE",
-"23 133 CURVE SMOOTH",
-"23 48 OFFCURVE",
-"65 -14 OFFCURVE",
-"171 -14 CURVE SMOOTH"
+"268 -10 OFFCURVE",
+"360 39 OFFCURVE",
+"458 159 CURVE",
+"426 237 LINE",
+"366 160 OFFCURVE",
+"329 126 OFFCURVE",
+"280 126 CURVE SMOOTH",
+"236 126 OFFCURVE",
+"210 146 OFFCURVE",
+"210 193 CURVE SMOOTH",
+"210 205 OFFCURVE",
+"212 219 OFFCURVE",
+"215 234 CURVE SMOOTH",
+"281 527 LINE",
+"99 521 LINE",
+"39 244 LINE SMOOTH",
+"28 195 OFFCURVE",
+"24 168 OFFCURVE",
+"24 137 CURVE SMOOTH",
+"24 52 OFFCURVE",
+"66 -10 OFFCURVE",
+"172 -10 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"506 0 LINE",
-"619 529 LINE",
-"437 519 LINE",
-"327 0 LINE"
+"507 0 LINE",
+"620 529 LINE",
+"438 519 LINE",
+"328 0 LINE"
 );
 }
 );
-width = 614;
+width = 615;
 },
 {
 associatedMasterId = "D0F50BF8-B137-4291-8B58-E185C78D1B48";
@@ -15644,7 +15650,7 @@ width = 600;
 anchors = (
 {
 name = top;
-position = "{312, 520}";
+position = "{313, 520}";
 }
 );
 layerId = "D0F50BF8-B137-4291-8B58-E185C78D1B48";
@@ -15653,38 +15659,41 @@ paths = (
 {
 closed = 1;
 nodes = (
-"255 -13 OFFCURVE",
-"320 7 OFFCURVE",
-"380 40 CURVE",
-"385 63 LINE",
-"311 24 OFFCURVE",
-"255 10 OFFCURVE",
-"200 10 CURVE SMOOTH",
-"96 10 OFFCURVE",
-"62 50 OFFCURVE",
-"92 190 CURVE SMOOTH",
-"163 520 LINE",
-"138 514 LINE",
-"69 196 LINE SMOOTH",
-"59 149 OFFCURVE",
-"56 123 OFFCURVE",
-"56 99 CURVE SMOOTH",
-"56 24 OFFCURVE",
-"104 -13 OFFCURVE",
-"193 -13 CURVE SMOOTH"
+"256 -13 OFFCURVE",
+"321 8 OFFCURVE",
+"381 44 CURVE",
+"386 67 LINE",
+"312 25 OFFCURVE",
+"256 10 OFFCURVE",
+"201 10 CURVE SMOOTH",
+"121 10 OFFCURVE",
+"82 41 OFFCURVE",
+"82 108 CURVE SMOOTH",
+"82 130 OFFCURVE",
+"86 158 OFFCURVE",
+"93 190 CURVE SMOOTH",
+"164 520 LINE",
+"139 514 LINE",
+"72 206 LINE SMOOTH",
+"60 149 OFFCURVE",
+"58 127 OFFCURVE",
+"58 107 CURVE SMOOTH",
+"58 24 OFFCURVE",
+"105 -13 OFFCURVE",
+"194 -13 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"380 0 LINE",
-"490 519 LINE",
-"465 513 LINE",
-"356 0 LINE"
+"381 0 LINE",
+"491 519 LINE",
+"466 513 LINE",
+"357 0 LINE"
 );
 }
 );
-width = 527;
+width = 528;
 }
 );
 leftKerningGroup = u;
