@@ -1,9 +1,4 @@
 {
-DisplayStrings = (
-"\U00BBWir\U00AB \U00BBTim\U00AB \U00BBViel\U00AB \U00BBYbbs\U00AB",
-"\U00A350 und \U00A520 sind $30 und /euro 60",
-"\U00A2\U00A4$/euro \U00A3\U00A5/elem.bwlLeftSide/elem.bwlRightSide pdbq0123456789"
-);
 classes = (
 {
 automatic = 1;
