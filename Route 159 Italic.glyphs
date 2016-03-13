@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"f\U00FChren f\U00F6rdern f\U00E4hre"
+"f\U00FChren f\U00F6rdern f\U00E4\012hre"
 );
 classes = (
 {
@@ -2159,7 +2159,7 @@ unicode = 010E;
 },
 {
 glyphname = Dcroat;
-lastChange = "2015-10-31 11:27:47 +0000";
+lastChange = "2016-03-13 14:47:29 +0000";
 layers = (
 {
 components = (
@@ -2189,7 +2189,7 @@ name = Eth;
 );
 layerId = "005AA5DB-9C20-42D5-964E-7DFE1013E61C";
 name = "Bold Italic";
-width = 781;
+width = 780;
 }
 );
 leftKerningGroup = H;
@@ -8858,7 +8858,7 @@ unicode = 0061;
 },
 {
 glyphname = aacute;
-lastChange = "2016-03-13 13:45:19 +0000";
+lastChange = "2016-03-13 14:47:49 +0000";
 layers = (
 {
 components = (
@@ -8903,13 +8903,13 @@ name = "Bold Italic";
 width = 611;
 }
 );
-leftKerningGroup = a;
+leftKerningGroup = aaccent;
 rightKerningGroup = n;
 unicode = 00E1;
 },
 {
 glyphname = abreve;
-lastChange = "2016-03-13 13:45:19 +0000";
+lastChange = "2016-03-13 14:47:49 +0000";
 layers = (
 {
 components = (
@@ -8954,13 +8954,13 @@ name = "Bold Italic";
 width = 611;
 }
 );
-leftKerningGroup = a;
+leftKerningGroup = aaccent;
 rightKerningGroup = n;
 unicode = 0103;
 },
 {
 glyphname = acircumflex;
-lastChange = "2016-03-13 13:45:19 +0000";
+lastChange = "2016-03-13 14:47:49 +0000";
 layers = (
 {
 components = (
@@ -9005,13 +9005,13 @@ name = "Bold Italic";
 width = 611;
 }
 );
-leftKerningGroup = a;
+leftKerningGroup = aaccent;
 rightKerningGroup = n;
 unicode = 00E2;
 },
 {
 glyphname = adieresis;
-lastChange = "2016-03-13 13:49:57 +0000";
+lastChange = "2016-03-13 14:47:49 +0000";
 layers = (
 {
 components = (
@@ -9056,13 +9056,13 @@ name = "Bold Italic";
 width = 611;
 }
 );
-leftKerningGroup = a;
+leftKerningGroup = aaccent;
 rightKerningGroup = n;
 unicode = 00E4;
 },
 {
 glyphname = agrave;
-lastChange = "2016-03-13 11:11:16 +0000";
+lastChange = "2016-03-13 14:47:49 +0000";
 layers = (
 {
 components = (
@@ -9107,13 +9107,13 @@ name = "Bold Italic";
 width = 619;
 }
 );
-leftKerningGroup = a;
+leftKerningGroup = aaccent;
 rightKerningGroup = n;
 unicode = 00E0;
 },
 {
 glyphname = amacron;
-lastChange = "2016-03-13 11:11:16 +0000";
+lastChange = "2016-03-13 14:47:49 +0000";
 layers = (
 {
 components = (
@@ -9158,13 +9158,13 @@ name = "Bold Italic";
 width = 619;
 }
 );
-leftKerningGroup = a;
+leftKerningGroup = aaccent;
 rightKerningGroup = n;
 unicode = 0101;
 },
 {
 glyphname = aogonek;
-lastChange = "2016-03-13 11:11:16 +0000";
+lastChange = "2016-03-13 14:47:49 +0000";
 layers = (
 {
 components = (
@@ -9209,13 +9209,13 @@ name = "Bold Italic";
 width = 619;
 }
 );
-leftKerningGroup = a;
+leftKerningGroup = aaccent;
 rightKerningGroup = n;
 unicode = 0105;
 },
 {
 glyphname = aring;
-lastChange = "2016-02-14 00:06:07 +0000";
+lastChange = "2016-03-13 14:47:49 +0000";
 layers = (
 {
 components = (
@@ -9260,13 +9260,13 @@ name = "Bold Italic";
 width = 619;
 }
 );
-leftKerningGroup = a;
+leftKerningGroup = aaccent;
 rightKerningGroup = n;
 unicode = 00E5;
 },
 {
 glyphname = atilde;
-lastChange = "2016-02-13 23:52:26 +0000";
+lastChange = "2016-03-13 14:47:49 +0000";
 layers = (
 {
 components = (
@@ -9311,7 +9311,7 @@ name = "Bold Italic";
 width = 619;
 }
 );
-leftKerningGroup = a;
+leftKerningGroup = aaccent;
 rightKerningGroup = n;
 unicode = 00E3;
 },
@@ -9825,7 +9825,7 @@ unicode = 0107;
 },
 {
 glyphname = ccaron;
-lastChange = "2016-03-13 11:11:23 +0000";
+lastChange = "2016-03-13 14:48:41 +0000";
 layers = (
 {
 components = (
@@ -9870,13 +9870,13 @@ name = "Bold Italic";
 width = 506;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = oaccent;
 rightKerningGroup = c;
 unicode = 010D;
 },
 {
 glyphname = ccedilla;
-lastChange = "2016-03-13 11:11:23 +0000";
+lastChange = "2016-03-13 14:48:36 +0000";
 layers = (
 {
 components = (
@@ -9921,7 +9921,7 @@ name = "Bold Italic";
 width = 506;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = oaccent;
 rightKerningGroup = c;
 unicode = 00E7;
 },
@@ -10574,7 +10574,7 @@ unicode = 00E9;
 },
 {
 glyphname = ecaron;
-lastChange = "2016-03-13 11:11:24 +0000";
+lastChange = "2016-03-13 14:49:07 +0000";
 layers = (
 {
 components = (
@@ -10619,13 +10619,13 @@ name = "Bold Italic";
 width = 552;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = eaccent;
 rightKerningGroup = e;
 unicode = 011B;
 },
 {
 glyphname = ecircumflex;
-lastChange = "2016-03-13 11:11:24 +0000";
+lastChange = "2016-03-13 14:49:07 +0000";
 layers = (
 {
 components = (
@@ -10670,13 +10670,13 @@ name = "Bold Italic";
 width = 552;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = eaccent;
 rightKerningGroup = e;
 unicode = 00EA;
 },
 {
 glyphname = edieresis;
-lastChange = "2016-03-13 11:11:24 +0000";
+lastChange = "2016-03-13 14:49:07 +0000";
 layers = (
 {
 components = (
@@ -10721,13 +10721,13 @@ name = "Bold Italic";
 width = 552;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = eaccent;
 rightKerningGroup = e;
 unicode = 00EB;
 },
 {
 glyphname = edotaccent;
-lastChange = "2016-03-13 11:11:24 +0000";
+lastChange = "2016-03-13 14:49:07 +0000";
 layers = (
 {
 components = (
@@ -10772,13 +10772,13 @@ name = "Bold Italic";
 width = 552;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = eaccent;
 rightKerningGroup = e;
 unicode = 0117;
 },
 {
 glyphname = egrave;
-lastChange = "2016-03-13 11:11:24 +0000";
+lastChange = "2016-03-13 14:49:07 +0000";
 layers = (
 {
 components = (
@@ -10823,13 +10823,13 @@ name = "Bold Italic";
 width = 552;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = eaccent;
 rightKerningGroup = e;
 unicode = 00E8;
 },
 {
 glyphname = emacron;
-lastChange = "2016-03-13 11:11:24 +0000";
+lastChange = "2016-03-13 14:49:07 +0000";
 layers = (
 {
 components = (
@@ -10874,7 +10874,7 @@ name = "Bold Italic";
 width = 552;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = eaccent;
 rightKerningGroup = e;
 unicode = 0113;
 },
@@ -13747,7 +13747,7 @@ unicode = 00F3;
 },
 {
 glyphname = ocircumflex;
-lastChange = "2016-03-13 11:11:24 +0000";
+lastChange = "2016-03-13 14:49:35 +0000";
 layers = (
 {
 components = (
@@ -13792,13 +13792,13 @@ name = "Bold Italic";
 width = 633;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = oaccent;
 rightKerningGroup = o;
 unicode = 00F4;
 },
 {
 glyphname = odieresis;
-lastChange = "2016-03-13 13:49:30 +0000";
+lastChange = "2016-03-13 14:49:35 +0000";
 layers = (
 {
 components = (
@@ -13843,13 +13843,13 @@ name = "Bold Italic";
 width = 633;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = oaccent;
 rightKerningGroup = o;
 unicode = 00F6;
 },
 {
 glyphname = ograve;
-lastChange = "2016-03-13 11:11:24 +0000";
+lastChange = "2016-03-13 14:49:35 +0000";
 layers = (
 {
 components = (
@@ -13894,13 +13894,13 @@ name = "Bold Italic";
 width = 633;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = oaccent;
 rightKerningGroup = o;
 unicode = 00F2;
 },
 {
 glyphname = ohungarumlaut;
-lastChange = "2016-03-13 11:11:24 +0000";
+lastChange = "2016-03-13 14:49:35 +0000";
 layers = (
 {
 components = (
@@ -13945,13 +13945,13 @@ name = "Bold Italic";
 width = 633;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = oaccent;
 rightKerningGroup = o;
 unicode = 0151;
 },
 {
 glyphname = omacron;
-lastChange = "2016-03-13 11:11:24 +0000";
+lastChange = "2016-03-13 14:49:35 +0000";
 layers = (
 {
 components = (
@@ -13996,13 +13996,13 @@ name = "Bold Italic";
 width = 633;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = oaccent;
 rightKerningGroup = o;
 unicode = 014D;
 },
 {
 glyphname = oslash;
-lastChange = "2016-03-13 13:45:21 +0000";
+lastChange = "2016-03-13 14:49:35 +0000";
 layers = (
 {
 components = (
@@ -14070,7 +14070,7 @@ nodes = (
 width = 633;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = oaccent;
 leftMetricsKey = o;
 rightKerningGroup = o;
 rightMetricsKey = o;
@@ -14078,7 +14078,7 @@ unicode = 00F8;
 },
 {
 glyphname = otilde;
-lastChange = "2016-02-13 23:52:26 +0000";
+lastChange = "2016-03-13 14:49:35 +0000";
 layers = (
 {
 components = (
@@ -14123,7 +14123,7 @@ name = "Bold Italic";
 width = 633;
 }
 );
-leftKerningGroup = o;
+leftKerningGroup = oaccent;
 rightKerningGroup = o;
 unicode = 00F5;
 },
@@ -15864,7 +15864,7 @@ unicode = 00FA;
 },
 {
 glyphname = ucircumflex;
-lastChange = "2016-03-13 11:11:25 +0000";
+lastChange = "2016-03-13 14:49:57 +0000";
 layers = (
 {
 components = (
@@ -15909,13 +15909,13 @@ name = "Bold Italic";
 width = 615;
 }
 );
-leftKerningGroup = u;
+leftKerningGroup = uaccent;
 rightKerningGroup = u;
 unicode = 00FB;
 },
 {
 glyphname = udieresis;
-lastChange = "2016-03-13 13:49:58 +0000";
+lastChange = "2016-03-13 14:49:57 +0000";
 layers = (
 {
 components = (
@@ -15960,13 +15960,13 @@ name = "Bold Italic";
 width = 608;
 }
 );
-leftKerningGroup = u;
+leftKerningGroup = uaccent;
 rightKerningGroup = u;
 unicode = 00FC;
 },
 {
 glyphname = ugrave;
-lastChange = "2016-03-13 11:11:25 +0000";
+lastChange = "2016-03-13 14:49:57 +0000";
 layers = (
 {
 components = (
@@ -16011,13 +16011,13 @@ name = "Bold Italic";
 width = 615;
 }
 );
-leftKerningGroup = u;
+leftKerningGroup = uaccent;
 rightKerningGroup = u;
 unicode = 00F9;
 },
 {
 glyphname = uhungarumlaut;
-lastChange = "2016-03-13 11:11:25 +0000";
+lastChange = "2016-03-13 14:49:57 +0000";
 layers = (
 {
 components = (
@@ -16062,13 +16062,13 @@ name = "Bold Italic";
 width = 615;
 }
 );
-leftKerningGroup = u;
+leftKerningGroup = uaccent;
 rightKerningGroup = u;
 unicode = 0171;
 },
 {
 glyphname = umacron;
-lastChange = "2016-03-13 11:11:25 +0000";
+lastChange = "2016-03-13 14:49:57 +0000";
 layers = (
 {
 components = (
@@ -16113,13 +16113,13 @@ name = "Bold Italic";
 width = 615;
 }
 );
-leftKerningGroup = u;
+leftKerningGroup = uaccent;
 rightKerningGroup = u;
 unicode = 016B;
 },
 {
 glyphname = uogonek;
-lastChange = "2016-03-13 11:11:25 +0000";
+lastChange = "2016-03-13 14:49:57 +0000";
 layers = (
 {
 components = (
@@ -16161,13 +16161,13 @@ name = "Bold Italic";
 width = 614;
 }
 );
-leftKerningGroup = u;
+leftKerningGroup = uaccent;
 rightKerningGroup = u;
 unicode = 0173;
 },
 {
 glyphname = uring;
-lastChange = "2016-02-22 16:43:34 +0000";
+lastChange = "2016-03-13 14:49:57 +0000";
 layers = (
 {
 components = (
@@ -16212,7 +16212,7 @@ name = "Bold Italic";
 width = 615;
 }
 );
-leftKerningGroup = u;
+leftKerningGroup = uaccent;
 rightKerningGroup = u;
 unicode = 016F;
 },
